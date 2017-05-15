@@ -20,7 +20,7 @@
     [self.view addSubview:lable];
     lable.textAlignment=NSTextAlignmentCenter;
     lable.text=@"改模块暂未实现敬请期待";
-    self.view.backgroundColor=[UIColor whiteColor]
+    self.view.backgroundColor=[UIColor whiteColor];
 }
 
 - (void)didReceiveMemoryWarning {
